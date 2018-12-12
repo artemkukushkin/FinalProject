@@ -1,0 +1,12 @@
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\bin\Debug\ISMGCourses.accdb
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\bin\Debug\Project4_Final_Kukushkin.exe.config
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\bin\Debug\Project4_Final_Kukushkin.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\bin\Debug\Project4_Final_Kukushkin.pdb
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.Properties.Resources.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.exe
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.pdb
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.frmClassSelection.resources
+C:\Users\Artem\Desktop\School\Graduate School\ISMG 6020 - Net Programming\Projects\Project4_Final_Kukushkin\Project4_Final_Kukushkin\obj\Debug\Project4_Final_Kukushkin.frmConfirmation.resources
